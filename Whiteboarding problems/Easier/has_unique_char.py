@@ -2,7 +2,7 @@
 
 # given a word. Return True if word contains only unique characters
 
-# Q: do we need to consider lower cases and upper cases separately?
+# Q: do we need to consider lower cases and upper cases separately? Yes
 
 # def has_unique_char(word):
 #     """Return True if a word contains unique characters"""

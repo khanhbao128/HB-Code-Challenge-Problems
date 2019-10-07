@@ -39,6 +39,10 @@ print(anagram_of_palindrome('booeeoboe'))
 # Runtime: O(2n)
 # Space O(n)
 
+# The algorithm here is that anagrams of palindromes must have an even number of all letters but one 
+# (it’s fine if one letter has an odd number of occurrences, as that could be the middle letter, 
+# but if more than one letter has an odd number of occurrences, it can’t be an anagram of a palindrome).
+
 
 
 
